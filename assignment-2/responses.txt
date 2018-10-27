@@ -1,0 +1,5 @@
+1. Data travels overseas via underseas cables, where packets of bits in the form
+of energy, flows from one part of the planet to the other.
+2. The DNS translates domain names to IP addresses and vise versa
+3. Data sent from websites and stored in your browser
+4. The three parts of a URL are: the Network protocol, host name and location.
